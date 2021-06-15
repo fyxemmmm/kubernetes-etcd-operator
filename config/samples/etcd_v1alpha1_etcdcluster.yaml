@@ -1,0 +1,9 @@
+apiVersion: etcd.ydzs.io/v1alpha1
+kind: EtcdCluster
+metadata:
+  name: etcd-demo
+  namespace: etcd
+spec:
+  # Add fields here
+  size: 3
+  image: k8s.gcr.io/etcd:3.2.24

@@ -1,0 +1,7 @@
+domain: fyxemmmm.cn
+repo: github.com/fyxemmmm/etcd-operator
+resources:
+- group: etcd
+  kind: EtcdCluster
+  version: v1alpha1
+version: "2"
