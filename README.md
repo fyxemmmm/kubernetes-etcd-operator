@@ -1,3 +1,3 @@
 # etcd-operator
 
-### used to create an etcd cluster on kubernetes
+#### used to create an etcd cluster on kubernetes
